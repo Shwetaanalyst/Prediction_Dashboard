@@ -44,15 +44,8 @@ This project analyzes, visualizes, and predicts teen birth rates across U.S. sta
 - **Target**: Birth Rate (per 1,000)
 - **Libraries Used**: `pandas`, `scikit-learn`, `seaborn`, `matplotlib`
 
----
+https://github.com/Shwetaanalyst/Data-Analysis--Dashboard
 
-## 🚀 How to Run the App Locally
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/yourusername/teen-birth-dashboard.git
-cd teen-birth-dashboard
 
 ## 🛠️ Tech Stack
 Python 3.11
